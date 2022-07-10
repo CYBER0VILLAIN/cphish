@@ -44,3 +44,6 @@ bash chish.sh
 
 ### BUY HACKING COURSES 
 https://villainstore.site
+
+### JOIN OUR COMMUNITY
+http://aminoapps.com/c/hack-programming
