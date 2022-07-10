@@ -32,8 +32,8 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/CYBER0VILLAIN/cphish
-cd cPhish
-bash chish.sh
+cd cphish
+bash cphish.sh
 ```
 
 ## Change Log:
